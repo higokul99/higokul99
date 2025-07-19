@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Gokul Jayakumar
 
 💻 **Software Engineer** | 🧠 **CTO @IEDC** | 🚀 **Tech Enthusiast**  
