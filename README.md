@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gokul Jayakumar
 
-💻 **Software Engineer** | 🧠 **CTO @IEDC** | 🚀 **Tech Enthusiast**  
+💻 **Software Engineer** | 🧠 **Ex-CTO @IEDC** | 🚀 **Tech Enthusiast**  
 📍 Bangalore, India  
 [🌐 Portfolio Website](https://gokulj.gecnoguru.com/) | [🔗 LinkedIn](http://www.linkedin.com/in/gokul-jayakumar)
 
